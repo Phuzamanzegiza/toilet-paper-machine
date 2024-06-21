@@ -1,0 +1,66 @@
+---
+title: "1.3m Toilet Paper Machine for Sale – 2023 Model"
+author: "Franco"
+date: "2024-06-19"
+output:
+  html_document:
+    theme: cosmo
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{css, echo=FALSE}
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+```
+
+### 1.3m Toilet Paper Machine for Sale – 2023 Model
+
+**Price: R220,000.00**
+
+**Location: Randburg**
+
+<img src="https://drive.google.com/uc?export=view&id=13H4DV1O1RaNStpjUb8Oyn0TaczFOrzAS" alt="Toilet Paper Machine" width="600" />
+
+
+
+---
+
+**Key Features:**
+
+- **2023 Model:** Latest technology for efficient production.
+- **South African Built:** Quality construction by Moritz Manufacturing.
+- **High Output:** Produces up to 15,000 toilet rolls in just 9 hours.
+- **Single Phase:** Easy integration into existing electrical setups.
+- **Embosser Diamond:** Adds a professional finish to each roll.
+- **Additional Equipment:** Comes with a bandsaw and sealer machine.
+- **Low Mileage:** Machine was only used for a few months, in excellent condition.
+- **Locally Made:** Supporting local industry.
+
+**Bonus Offer:**
+
+- **Free Training Videos:** Step-by-step guides for easy operation.
+- **On-site Training:** Available upon request (additional charges apply).
+- **Delivery:** Can be organised within Gauteng (additional charges apply).
+
+Don't miss out on this incredible opportunity! Limited-time offer!
+
+**Contact Information:**
+
+If interested, please contact Dipalesa at 0828282650 .
+
+---
+
+**Viewing available in Randburg – Act fast, this high-demand machine won't last long!**
+
+---
+
+
+
